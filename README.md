@@ -31,4 +31,12 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0061-rotate-list) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
