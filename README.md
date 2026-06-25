@@ -39,6 +39,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0162-find-peak-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2951-find-the-peaks](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +48,8 @@ This repository will contain my all dsa learning from basic to advanced
 | [0162-find-peak-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0852-peak-index-in-a-mountain-array) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
