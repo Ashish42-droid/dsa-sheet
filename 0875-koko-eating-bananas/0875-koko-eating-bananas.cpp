@@ -1,5 +1,19 @@
 class Solution {
 public:
+    bool possible (vector<int>&piles,int h ,long long guess){
+        int hours =0;
+      for (int banana:piles){
+        int q = banana / guess;
+        int r = banana  % guess;
+        hours+=q;
+        if (r!=0)
+        hours++;
+        if (hours>h)
+        return false;
+        
+      }
+        return true;
+    }
     int minEatingSpeed(vector<int>& piles, int h) {
     long long n= piles.size();
     long long low=1;
@@ -8,16 +22,12 @@ public:
 
     while(low<=high){
         long long guess=( low+high)/2;
-         long long hours=0;
-        for( int banana:piles){
-           hours+=ceil((double)banana/guess);
-        }
-       
-         if (hours<=h)//speed bahut jyada hai  slow speed try karo
-        high =guess-1;
-        else 
-        low=guess+1;
-    }    
+         if (possible(piles,h,guess))
+          high = guess -1;
+         else 
+        low =guess+1;
+
+    }
     return low;
     }
 };
