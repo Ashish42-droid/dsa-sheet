@@ -8,11 +8,12 @@ public:
         hours+=q;
         if (r!=0)
         hours++;
-        if (hours>h)
-        return false;
+        if (hours>h)//bahut jyada slow kha rahi hai isliye low ko  badha denge
+         return true;
+       
         
       }
-        return true;
+        return false;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
     long long n= piles.size();
@@ -23,9 +24,10 @@ public:
     while(low<=high){
         long long guess=( low+high)/2;
          if (possible(piles,h,guess))
-          high = guess -1;
+         
+           low =guess+1;//bahut jyada slow kha rahi hai isliye low ko  badha denge
          else 
-        low =guess+1;
+        high = guess -1;//bahut jyada fast kha rahi hai isliye high ko kam kar denge
 
     }
     return low;
