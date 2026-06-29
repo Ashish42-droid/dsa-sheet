@@ -11,6 +11,7 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
@@ -43,6 +44,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0875-koko-eating-bananas](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1552-magnetic-force-between-two-balls) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2951-find-the-peaks](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
