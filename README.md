@@ -42,6 +42,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -59,6 +60,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -72,6 +74,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -91,8 +94,13 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0240-search-a-2d-matrix-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
