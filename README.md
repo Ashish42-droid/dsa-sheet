@@ -49,6 +49,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1046-last-stone-weight) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1552-magnetic-force-between-two-balls) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2951-find-the-peaks](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2951-find-the-peaks) |
@@ -108,6 +109,7 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1046-last-stone-weight](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
 | ------- |
