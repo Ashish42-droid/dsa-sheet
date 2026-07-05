@@ -6,6 +6,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -15,6 +16,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
@@ -43,6 +45,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0162-find-peak-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0704-binary-search) |
@@ -78,6 +81,7 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
@@ -104,10 +108,12 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1046-last-stone-weight) |
 ## Math
@@ -118,4 +124,9 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
