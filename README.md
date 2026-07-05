@@ -7,16 +7,19 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
@@ -48,6 +51,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0410-split-array-largest-sum) |
+| [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0875-koko-eating-bananas) |
@@ -83,6 +87,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -115,6 +120,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
@@ -129,4 +135,9 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
