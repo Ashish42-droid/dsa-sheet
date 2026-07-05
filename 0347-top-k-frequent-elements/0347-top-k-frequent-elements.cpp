@@ -13,20 +13,11 @@ public:
       }
       priority_queue<pair<int,int>,vector<pair<int,int>>,cmp>pq;
       pair<int,int> curr;
-      for (auto it:f){
-        curr = {it.second,it.first};
-        if (pq.size()<k)
-           pq.push(curr);
-        else{
-     if(curr.first < pq.top().first)
-            continue;
-            else{
-                pq.pop();
-                pq.push(curr);
-            }
+      
+        for (auto &it : f) {
+            pq.push({it.second, it.first});
+            if (pq.size() > k) pq.pop();
         }
-
-      }
       vector <int> res;
       while(!pq.empty()){
         res.push_back(pq.top().second);
