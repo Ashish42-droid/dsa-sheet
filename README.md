@@ -9,6 +9,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -59,6 +61,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [1046-last-stone-weight](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1046-last-stone-weight) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1552-magnetic-force-between-two-balls) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2951-find-the-peaks](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
