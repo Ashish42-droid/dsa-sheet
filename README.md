@@ -6,6 +6,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
@@ -21,6 +22,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
@@ -52,6 +54,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
@@ -95,6 +98,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -127,6 +131,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
