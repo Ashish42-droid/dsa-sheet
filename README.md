@@ -8,12 +8,14 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## String
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
@@ -21,6 +23,7 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Linked List
@@ -96,6 +99,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
@@ -107,6 +111,7 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0410-split-array-largest-sum) |
+| [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -132,6 +137,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1046-last-stone-weight) |
 ## Math
