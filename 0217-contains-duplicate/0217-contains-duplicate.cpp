@@ -4,15 +4,11 @@ public:
       unordered_map<int,int> mp;
         for (int n:nums){
             mp[n]++;
+            if (mp[n]>1)
+            return true;
         }
-        priority_queue<pair<int,int>> pq;
-        for (auto it : mp){
-             pq.push({it.second,it.first});
-        }
-        auto  top = pq.top().first;
-        if (top >=2)
-        return true;
-        else return false  ;
+        return false;
+     
     }
 };
        
