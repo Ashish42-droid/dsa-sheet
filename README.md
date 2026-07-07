@@ -161,6 +161,7 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0973-k-closest-points-to-origin) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Quickselect
 |  |
 | ------- |
