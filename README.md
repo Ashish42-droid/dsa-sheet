@@ -13,6 +13,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## String
 |  |
@@ -78,6 +79,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1552-magnetic-force-between-two-balls) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2951-find-the-peaks](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2951-find-the-peaks) |
 ## Binary Search
@@ -143,6 +145,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
