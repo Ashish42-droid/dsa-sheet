@@ -126,6 +126,7 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0410-split-array-largest-sum) |
+| [1025-divisor-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -173,6 +174,7 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0973-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Quickselect
 |  |
@@ -197,4 +199,12 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0658-find-k-closest-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
