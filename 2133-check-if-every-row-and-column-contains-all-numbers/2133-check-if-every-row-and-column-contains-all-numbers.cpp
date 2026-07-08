@@ -1,23 +1,26 @@
 class Solution {
 public:
     bool checkValid(vector<vector<int>>& matrix) {
-       int n = matrix.size();
-   
-       for (int r=0;r<n;r++){
-          unordered_set<int> rows , cols ;
-        for (int c=0;c<n;c++){
-      
-           int rowval =matrix[r][c];
-           int colval =matrix[c][r];
-           if(rowval<1||rowval>n||colval<1||colval>n)
-           return false;
-           if (rows.count(rowval)||cols.count(colval))
-           return false;
-           rows.insert(rowval);
-           cols.insert(colval);
+        int n = matrix.size();
 
+        for (int r = 0; r < n; r++) {
+            vector<bool> rowSeen(n+1, false);
+            vector<bool> colSeen(n+1, false);
+
+            for (int c = 0; c < n; c++) {
+                int rowVal = matrix[r][c];
+                int colVal = matrix[c][r];
+
+                if (rowVal < 1 || rowVal > n || colVal < 1 || colVal > n)
+                    return false;
+
+                if (rowSeen[rowVal] || colSeen[colVal])
+                    return false;
+
+                rowSeen[rowVal] = true;
+                colSeen[colVal] = true;
+            }
         }
-       }
-       return true;
+        return true;
     }
 };
