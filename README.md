@@ -34,6 +34,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0061-rotate-list) |
@@ -150,6 +151,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0240-search-a-2d-matrix-ii) |
@@ -158,6 +160,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -207,4 +210,8 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1025-divisor-game) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
