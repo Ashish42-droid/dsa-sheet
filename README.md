@@ -10,6 +10,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0169-majority-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
@@ -27,6 +28,7 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [0169-majority-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
@@ -73,6 +75,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0410-split-array-largest-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0704-binary-search) |
@@ -120,6 +123,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
@@ -138,6 +142,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0011-container-with-most-water](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 ## Prefix Sum
 |  |
@@ -171,6 +176,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
