@@ -61,6 +61,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -153,6 +154,7 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -186,6 +188,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0048-rotate-image) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1025-divisor-game) |
