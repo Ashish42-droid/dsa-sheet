@@ -19,6 +19,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0125-valid-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
@@ -54,6 +55,7 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0125-valid-palindrome) |
 | [0658-find-k-closest-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0658-find-k-closest-elements) |
 ## Array
 |  |
