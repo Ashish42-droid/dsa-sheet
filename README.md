@@ -67,6 +67,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0048-rotate-image](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0169-majority-element) |
@@ -237,4 +238,8 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
