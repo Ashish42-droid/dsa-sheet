@@ -50,6 +50,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0024-swap-nodes-in-pairs](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -196,6 +197,7 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [0048-rotate-image](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0973-k-closest-points-to-origin) |
