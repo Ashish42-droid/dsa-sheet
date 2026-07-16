@@ -16,6 +16,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3842-toggle-light-bulbs](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2951-find-the-peaks](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2951-find-the-peaks) |
+| [3842-toggle-light-bulbs](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +140,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0973-k-closest-points-to-origin](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1552-magnetic-force-between-two-balls) |
+| [3842-toggle-light-bulbs](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3842-toggle-light-bulbs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -250,4 +253,8 @@ This repository will contain my all dsa learning from basic to advanced
 | [0136-single-number](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [3842-toggle-light-bulbs](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3842-toggle-light-bulbs) |
 <!---LeetCode Topics End-->
