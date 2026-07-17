@@ -76,4 +76,26 @@ public:
   pop_back() → temp back to ""
 return (from fun(0,0)) → DONE
 
-Final res = ["(())", "()()"]*/
+Final res = ["(())", "()()"]
+
+
+
+fun(0,0,"")
+                                   |
+                                (L) push '('
+                                   |
+                              fun(1,0,"(")
+                              /              \
+                    (L) push '('          (R) push ')'
+                        /                        \
+                 fun(2,0,"((")              fun(1,1,"()")
+                       |                          |
+                (R) push ')'                (L) push '('
+                       |                          |
+                fun(2,1,"(()")             fun(2,1,"()(")
+                       |                          |
+                (R) push ')'                (R) push ')'
+                       |                          |
+                fun(2,2,"(())")           fun(2,2,"()()")
+                   ✅ SAVE                    ✅ SAVE
+              "(())" added to res        "()()" added to res*/
