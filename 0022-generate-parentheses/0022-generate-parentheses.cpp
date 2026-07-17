@@ -26,3 +26,54 @@ public:
     }
 }
 };
+/*fun(open=0, close=0, temp="")
+  open(0) < n(2) → TRUE  → push '(' → temp = "("
+  
+    fun(open=1, close=0, temp="(")
+      open(1) < n(2) → TRUE → push '(' → temp = "(("
+      
+        fun(open=2, close=0, temp="((")
+          open(2) < n(2) → FALSE → skip
+          close(0) < open(2) → TRUE → push ')' → temp = "(()"
+          
+            fun(open=2, close=1, temp="(()")
+              open(2) < n(2) → FALSE → skip
+              close(1) < open(2) → TRUE → push ')' → temp = "(())"
+              
+                fun(open=2, close=2, temp="(())")
+                  open==n && close==n → TRUE
+                  ✅ res.push_back("(())")
+                  return
+                  
+              pop_back() → temp back to "(()"
+            return (from fun(2,1))
+          pop_back() → temp back to "(("
+        return (from fun(2,0))
+      pop_back() → temp back to "("
+      
+      close(0) < open(1) → TRUE → push ')' → temp = "()"
+      
+        fun(open=1, close=1, temp="()")
+          open(1) < n(2) → TRUE → push '(' → temp = "()("
+          
+            fun(open=2, close=1, temp="()(")
+              open(2) < n(2) → FALSE → skip
+              close(1) < open(2) → TRUE → push ')' → temp = "()()"
+              
+                fun(open=2, close=2, temp="()()")
+                  open==n && close==n → TRUE
+                  ✅ res.push_back("()()")
+                  return
+                  
+              pop_back() → temp back to "()("
+            return (from fun(2,1) second visit)
+          pop_back() → temp back to "()"
+          
+          close(1) < open(1) → FALSE → skip (no more branches here)
+        return (from fun(1,1))
+      pop_back() → temp back to ""
+    return (from fun(1,0))
+  pop_back() → temp back to ""
+return (from fun(0,0)) → DONE
+
+Final res = ["(())", "()()"]*/
