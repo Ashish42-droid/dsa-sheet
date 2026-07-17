@@ -20,6 +20,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0125-valid-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
@@ -144,6 +145,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0509-fibonacci-number) |
@@ -257,4 +259,8 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [3842-toggle-light-bulbs](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3842-toggle-light-bulbs) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
