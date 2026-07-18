@@ -97,6 +97,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1552-magnetic-force-between-two-balls) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2951-find-the-peaks](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2951-find-the-peaks) |
@@ -209,6 +210,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1025-divisor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Quickselect
 |  |
@@ -263,4 +265,8 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0022-generate-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
