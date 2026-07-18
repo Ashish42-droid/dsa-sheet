@@ -86,4 +86,37 @@ public:
         pop → diary="b"
       
       loop j=1 → 'e'
-        diary="be"*/
+        diary="be"
+
+
+fun(0,"")
+├── 'a' → fun(1,"a")
+│         ├── 'd' → fun(2,"ad") ✅ SAVE "ad"
+│         ├── 'e' → fun(2,"ae") ✅ SAVE "ae"
+│         └── 'f' → fun(2,"af") ✅ SAVE "af"
+│
+├── 'b' → fun(1,"b")
+│         ├── 'd' → fun(2,"bd") ✅ SAVE "bd"
+│         ├── 'e' → fun(2,"be") ✅ SAVE "be"
+│         └── 'f' → fun(2,"bf") ✅ SAVE "bf"
+│
+└── 'c' → fun(1,"c")
+          ├── 'd' → fun(2,"cd") ✅ SAVE "cd"
+          ├── 'e' → fun(2,"ce") ✅ SAVE "ce"
+          └── 'f' → fun(2,"cf") ✅ SAVE "cf"
+
+
+fun(idx=0, diary="")
+                                digits[0]='2' → choice="abc"
+                    ┌───────────────────┼───────────────────┐
+                  push'a'             push'b'             push'c'
+                    │                   │                   │
+            fun(idx=1,"a")      fun(idx=1,"b")      fun(idx=1,"c")
+          digits[1]='3'→"def"  digits[1]='3'→"def"  digits[1]='3'→"def"
+              ┌───┼───┐            ┌───┼───┐            ┌───┼───┐
+            'd' 'e' 'f'          'd' 'e' 'f'          'd' 'e' 'f'
+             │   │   │            │   │   │            │   │   │
+            "ad""ae""af"        "bd""be""bf"        "cd""ce""cf"
+             ✅  ✅  ✅           ✅  ✅  ✅           ✅  ✅  ✅
+
+*/
