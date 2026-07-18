@@ -30,3 +30,60 @@ public:
                return ;
             }
 };
+
+/*fun(idx=0, diary="")
+  idx(0) != n(2) → don't save
+  choice = f[digits[0]] = f['2'] = "abc"
+  
+  loop j=0 → choice[0]='a'
+    diary.push_back('a') → diary="a"
+    
+    fun(idx=1, diary="a")
+      idx(1) != n(2) → don't save
+      choice = f[digits[1]] = f['3'] = "def"
+      
+      loop j=0 → choice[0]='d'
+        diary.push_back('d') → diary="ad"
+        
+        fun(idx=2, diary="ad")
+          idx(2) == n(2) → ✅ SAVE "ad"
+          return
+          
+        diary.pop_back() → diary="a"
+      
+      loop j=1 → choice[1]='e'
+        diary.push_back('e') → diary="ae"
+        
+        fun(idx=2, diary="ae")
+          idx(2) == n(2) → ✅ SAVE "ae"
+          return
+          
+        diary.pop_back() → diary="a"
+      
+      loop j=2 → choice[2]='f'
+        diary.push_back('f') → diary="af"
+        
+        fun(idx=2, diary="af")
+          idx(2) == n(2) → ✅ SAVE "af"
+          return
+          
+        diary.pop_back() → diary="a"
+      
+      loop ends (j=3 == choice.size()=3)
+      return (from fun(idx=1,"a"))
+      
+    diary.pop_back() → diary="" (back at idx=0 level, undo 'a')
+  
+  loop j=1 → choice[1]='b'
+    diary.push_back('b') → diary="b"
+    
+    fun(idx=1, diary="b")
+      choice = "def"
+      
+      loop j=0 → 'd'
+        diary="bd"
+        fun(idx=2,"bd") → ✅ SAVE "bd"
+        pop → diary="b"
+      
+      loop j=1 → 'e'
+        diary="be"*/
