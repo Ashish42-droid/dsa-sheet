@@ -213,6 +213,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0973-k-closest-points-to-origin](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2413-smallest-even-multiple) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Quickselect
 |  |
@@ -272,4 +273,5 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
