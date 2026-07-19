@@ -71,6 +71,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -269,6 +270,7 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0039-combination-sum) |
 ## Number Theory
 |  |
 | ------- |
