@@ -282,16 +282,20 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
