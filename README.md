@@ -278,4 +278,20 @@ This repository will contain my all dsa learning from basic to advanced
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2413-smallest-even-multiple) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
