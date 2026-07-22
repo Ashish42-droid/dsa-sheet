@@ -10,42 +10,32 @@
  * };
  */
 class Solution {
-    using Node=TreeNode;
 public:
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>>res;
-        if (root == nullptr)
-        return res;       
-        
-        queue<Node*>q;
-        q.push(root);
-        bool ltr=0;
-        while(!q.empty()){
-            int lvl = q.size();
-            int first = 0;
-            int last = lvl -1;
-            vector<int> temp(lvl);
-            while(lvl--){
-                Node* t = q.front();
-                q.pop();
-                if (ltr==0){
-                temp[first]= t->val;
-                first++;
-                }
-                else{
-                temp[last]=t->val;
-                last--;
-                }
-                if (t->left!=nullptr)
-                q.push(t->left);
-                if (t->right!=nullptr)
-                q.push(t->right);
+   vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+    vector<vector<int>> res;
+    if (root == nullptr) return res;
 
+    queue<TreeNode*> q;
+    q.push(root);
+    bool ltr = true;
 
-            }
-            res.push_back(temp);
-            ltr= ltr-1;
+    while (!q.empty()) {
+        int lvl = q.size();
+        vector<int> temp;
+
+        while (lvl--) {
+            TreeNode* t = q.front();
+            q.pop();
+            temp.push_back(t->val);          // ALWAYS push_back, no first/last needed
+
+            if (t->left)  q.push(t->left);
+            if (t->right) q.push(t->right);
         }
-        return res;
+
+        if (!ltr) reverse(temp.begin(), temp.end());   // flip only when needed
+        res.push_back(temp);
+        ltr = !ltr;
     }
+    return res;
+}
 };
