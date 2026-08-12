@@ -299,6 +299,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
@@ -326,6 +327,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -336,4 +338,8 @@ This repository will contain my all dsa learning from basic to advanced
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
