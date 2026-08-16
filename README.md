@@ -95,6 +95,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0704-binary-search](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1046-last-stone-weight) |
@@ -154,6 +155,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
@@ -212,6 +214,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0342-power-of-four](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0877-stone-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -247,6 +250,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1025-divisor-game) |
 ## Merge Sort
 |  |
@@ -342,4 +346,12 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0700-search-in-a-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
