@@ -28,6 +28,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
 | ------- |
@@ -165,6 +166,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0502-ipo](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -219,6 +221,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [1025-divisor-game](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2413-smallest-even-multiple) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Quickselect
 |  |
