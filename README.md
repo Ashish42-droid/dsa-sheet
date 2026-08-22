@@ -223,6 +223,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [2413-smallest-even-multiple](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3959-check-good-integer](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3959-check-good-integer) |
 ## Quickselect
 |  |
 | ------- |
@@ -273,6 +274,7 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [3842-toggle-light-bulbs](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3842-toggle-light-bulbs) |
+| [3959-check-good-integer](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3959-check-good-integer) |
 ## Backtracking
 |  |
 | ------- |
