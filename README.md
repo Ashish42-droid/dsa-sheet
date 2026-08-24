@@ -39,6 +39,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [0767-reorganize-string](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashish42-droid/dsa-sheet/tree/master/1189-maximum-number-of-balloons) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3978-unique-middle-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3978-unique-middle-element) |
 ## Linked List
 |  |
 | ------- |
@@ -108,6 +109,7 @@ This repository will contain my all dsa learning from basic to advanced
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2951-find-the-peaks](https://github.com/Ashish42-droid/dsa-sheet/tree/master/2951-find-the-peaks) |
 | [3842-toggle-light-bulbs](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3842-toggle-light-bulbs) |
+| [3978-unique-middle-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
 | ------- |
