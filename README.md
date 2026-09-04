@@ -6,6 +6,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0169-majority-element) |
@@ -22,6 +23,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0125-valid-palindrome) |
@@ -250,6 +252,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0658-find-k-closest-elements) |
 ## Brainteaser
 |  |
