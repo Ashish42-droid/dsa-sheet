@@ -10,24 +10,26 @@
  * };
  */
 class Solution {
-    using node = TreeNode;
 public:
+    using node = TreeNode;
+    int res = 0;
     int sumNumbers(TreeNode* root) {
-        int sum = 0;
-        int res = 0;
-        fun (root,sum,res);
+         fun(root, 0);
         return res;
     }
-  void fun (node*root,int sum,int &res){
-        if (root == nullptr)
-        return ;
-        sum= (sum* 10)+root->val;
-         if (root ->left == nullptr && root ->right == nullptr){
-                res +=sum;
-                return ;
+
+    void fun (node* root, int sum) {
+        if (root == nullptr) return ;
+
+        sum = (sum)*10 + root->val;
+
+        if (root->left == nullptr && root->right == nullptr) {
+             res += sum;
+            return;
         }
-        fun (root->left,sum,res);
-        fun (root->right,sum,res);
-         return ;
+
+        fun(root->left, sum);
+        fun(root->right, sum );
+
     }
 };
