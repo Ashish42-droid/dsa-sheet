@@ -66,6 +66,7 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0125-valid-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -74,6 +75,7 @@ This repository will contain my all dsa learning from basic to advanced
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0036-valid-sudoku) |
@@ -140,6 +142,7 @@ This repository will contain my all dsa learning from basic to advanced
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ashish42-droid/dsa-sheet/tree/master/0217-contains-duplicate) |
